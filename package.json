@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts":{
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ARIBI Mordjane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
